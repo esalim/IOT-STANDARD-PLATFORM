@@ -1,0 +1,2 @@
+# IOT-STANDARD-PLATFORM
+It's a standard IoT platform. We have objects collecting temperatures continuously – no unavailability is tolerated, in addition to the cloud platform responsible for managing and analyzing collected data and sending notifications when temperatures exceed some thresholds. To increase availability, we placed a central less-constrained node allowing us to have hybrid architecture. 
