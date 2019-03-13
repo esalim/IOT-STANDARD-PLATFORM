@@ -62,7 +62,7 @@ We'll find its implementation thanks to the document [*`Arduino MKR1000 Card Pro
 * ***HTTP connection program*** : This program will have the role of Achieving an HTTP connection from the arduino MKR1000 
 to the ThingSpeak platform as well as the central node (Raspberry Pi).
 
-Its implementation available from the document [*`HTTP Connection Program`*](Codes/HTPP_Connection.md)
+Its implementation available from the document [*`HTTP Connection Program`*](https://github.com/AbdramCoulby/IoT-Standard-Platform/blob/master/Codes/HTPP_Connection.md)
 
 * ***Temperature Data Program*** : The programs code.php and code.php who are responsible for receiving the data 
 temperature sent by the Arduino boards and store 
